@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<extension key="org.ndi.serbiamunicipalities" type="module">
+  <file>serbiamunicipalities</file>
+  <name>Serbia Municipalities Loader</name>
+  <description>Loads municipalities for Serbia</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Evan Summers</author>
+    <email>esummers@ndi.org</email>
+  </maintainer>
+  <releaseDate>2016-12-06</releaseDate>
+  <version>1.1</version>
+  <develStage>stable</develStage>
+  <urls>
+	  <url desc="documentation">http://aghstrategies.com/counties</url>
+  </urls>
+  <compatibility>
+    <ver>4.4</ver>
+    <ver>4.5</ver>
+    <ver>4.6</ver>
+  </compatibility>
+  <comments>Use this extension to load municipalities for Serbia.  After installation, this extension does nothing (and can even be disabled).</comments>
+</extension>
