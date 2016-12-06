@@ -7,7 +7,7 @@
 function serbiamunicipalities_listcounties() {
   $countryIso = 'RS';
   $counties = array(
-    'Nueva Segovia' => array(
+    'Beograd' => array(
       'Jalapa',
       'Santa María',
       'Macuelizo',
@@ -21,7 +21,7 @@ function serbiamunicipalities_listcounties() {
       'Quilali',
       'Wiwili-Nueva Segovia',
     ),
-    'Madriz' => array(
+    'Severnobački upravni okrug' => array(
       'Somoto',
       'Yalaguina',
       'Totogalpa',
@@ -32,7 +32,7 @@ function serbiamunicipalities_listcounties() {
       'Las Sabanas',
       'San José de Cusmapa',
     ),
-    'Estelí' => array(
+    'Srednjobanatski upravni okrug' => array(
       'Pueblo Nuevo',
       'Condega',
       'San Juan de Limay',
@@ -40,7 +40,7 @@ function serbiamunicipalities_listcounties() {
       'San Nicolás',
       'La Trinidad',
     ),
-    'Chinandega' => array(
+    'Severnobanatski upravni okrug' => array(
       'San Pedro del Norte',
       'Santo Tomás del Norte',
       'Cinco Pinos',
@@ -55,7 +55,7 @@ function serbiamunicipalities_listcounties() {
       'Chichigalpa',
       'Posoltega',
     ),
-    'León' => array(
+    'Južnobanatski upravni okrug' => array(
       'Achuapa',
       'El Sauce',
       'Santa Rosa del Peñon',
@@ -67,7 +67,7 @@ function serbiamunicipalities_listcounties() {
       'La Paz Centro',
       'Nagarote',
     ),
-    'Managua' => array(
+    'Zapadnobački uprvni okrug' => array(
       'San Francisco Libre',
       'Tipitapa',
       'Mateare',
@@ -78,7 +78,7 @@ function serbiamunicipalities_listcounties() {
       'Ciudad Sandino',
       'El Crucero',
     ),
-    'Masaya' => array(
+    'Južnobački upravni okrug' => array(
       'Nindirí',
       'Masaya',
       'Tisma',
@@ -89,7 +89,7 @@ function serbiamunicipalities_listcounties() {
       'Catarina',
       'San Juan de Oriente',
     ),
-    'Carazo' => array(
+    'Sremski upravni okrug' => array(
       'San Marcos',
       'Diriamba',
       'Dolores',
@@ -99,13 +99,13 @@ function serbiamunicipalities_listcounties() {
       'La Conquista',
       'Santa Teresa',
     ),
-    'Granada' => array(
+    'Mačvanski upravni okrug' => array(
       'Granada',
       'Diriá',
       'Diriomo',
       'Nandaime',
     ),
-    'Rivas' => array(
+    'Kolubarski upravni okrug' => array(
       'Belén',
       'Potosí',
       'Buenos Aires',
@@ -117,7 +117,7 @@ function serbiamunicipalities_listcounties() {
       'San Juan del Sur',
       'Cárdenas',
     ),
-    'Chontales' => array(
+    'Zlatiborski upravni okrug' => array(
       'Comalapa',
       'Juigalpa',
       'La Libertad',
@@ -132,7 +132,7 @@ function serbiamunicipalities_listcounties() {
       'Muelle de los Bueyes',
       'Nueva Guinea',
     ),
-    'Boaco' => array(
+    'Podunavski upravni okrug' => array(
       'San José de los Remates',
       'Santa Lucia',
       'Boaco',
@@ -140,7 +140,7 @@ function serbiamunicipalities_listcounties() {
       'Teustepe',
       'San Lorenzo',
     ),
-    'Matagalpa' => array(
+    'Šumadijski upravni okrug' => array(
       'Rancho Grande',
       'Tuma la Dalia',
       'Rio Blanco',
@@ -155,7 +155,7 @@ function serbiamunicipalities_listcounties() {
       'Esquipulas',
       'Muy Muy',
     ),
-    'Jinotega' => array(
+    'Pomoravski upravni okrug' => array(
       'Wiwili-Jinotega',
       'El Cua',
       'Santa María de Pantasma',
@@ -165,7 +165,7 @@ function serbiamunicipalities_listcounties() {
       'Jinotega',
       'San José de Bocay',
     ),
-    'RAAN' => array(
+    'Moravički upravni okrug' => array(
       'Waspam',
       'Puerto Cabezas',
       'Prinzapolka',
@@ -175,7 +175,7 @@ function serbiamunicipalities_listcounties() {
       'Waslala',
       'Mulukukú',
     ),
-    'RAAS' => array(
+    'Raški upravni okrug' => array(
       'Bocana de Paiwas',
       'La Cruz de Rio Grande',
       'Laguna de Perlas',
@@ -186,7 +186,71 @@ function serbiamunicipalities_listcounties() {
       'El Tortuguero',
       'El Ayote',
     ),
-    'Río San Juan' => array(
+    'Rasinski upravni okrug' => array(
+      'El Almendro',
+      'Morrito',
+      'San Miguelito',
+      'San Carlos',
+      'El Castillo',
+      'San Juan de Nicaragua',
+    ),
+    'Braničevski upravni okrug' => array(
+      'El Almendro',
+      'Morrito',
+      'San Miguelito',
+      'San Carlos',
+      'El Castillo',
+      'San Juan de Nicaragua',
+    ),
+    'Borski upravni okrug' => array(
+      'El Almendro',
+      'Morrito',
+      'San Miguelito',
+      'San Carlos',
+      'El Castillo',
+      'San Juan de Nicaragua',
+    ),
+    'Zaječarski upravni okrug' => array(
+      'El Almendro',
+      'Morrito',
+      'San Miguelito',
+      'San Carlos',
+      'El Castillo',
+      'San Juan de Nicaragua',
+    ),
+    'Nišavski upravni okrug' => array(
+      'El Almendro',
+      'Morrito',
+      'San Miguelito',
+      'San Carlos',
+      'El Castillo',
+      'San Juan de Nicaragua',
+    ),
+    'Toplički upravni okrug' => array(
+      'El Almendro',
+      'Morrito',
+      'San Miguelito',
+      'San Carlos',
+      'El Castillo',
+      'San Juan de Nicaragua',
+    ),
+    'Pirotski upravni okrug' => array(
+      'El Almendro',
+      'Morrito',
+      'San Miguelito',
+      'San Carlos',
+      'El Castillo',
+      'San Juan de Nicaragua',
+    ),
+    'Jablanički upravni okrug' => array(
+      'El Almendro',
+      'Morrito',
+      'San Miguelito',
+      'San Carlos',
+      'El Castillo',
+      'San Juan de Nicaragua',
+    ),
+    'Pčinjski upravni okrug' => array(
       'El Almendro',
       'Morrito',
       'San Miguelito',
