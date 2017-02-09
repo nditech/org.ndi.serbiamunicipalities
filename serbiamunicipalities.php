@@ -55,7 +55,7 @@ function serbiamunicipalities_listcounties() {
       'Kovin',
       'Opovo',
       'Grad Pančevo',
-      'Plandište ',
+      'Plandište',
     ),
     'Zapadnobački upravni okrug' => array(
       'Apatin',
