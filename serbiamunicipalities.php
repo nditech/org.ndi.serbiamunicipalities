@@ -64,8 +64,8 @@ function serbiamunicipalities_listcounties() {
       'Grad Sombor',
     ),
     'Južnobački upravni okrug' => array(
-      'Bač ',
-      'Bačka Palanka ',
+      'Bač',
+      'Bačka Palanka',
       'Bački Petrovac',
       'Beočin',
       'Bečej',
@@ -189,7 +189,7 @@ function serbiamunicipalities_listcounties() {
       'Gradska opština Pantelej',
       'Gradska opština Niška Banja',
       'Aleksinac',
-      'Gađin Han',
+      'Gadžin Han',
       'Doljevac',
       'Merošina',
       'Ražanj',
@@ -197,7 +197,7 @@ function serbiamunicipalities_listcounties() {
     ),
     'Toplički upravni okrug' => array(
       'Blace',
-      'Žitobara',
+      'Žitorađa',
       'Kuršumlija',
       'Prokuplje',
     ),
