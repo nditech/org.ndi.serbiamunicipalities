@@ -32,7 +32,7 @@ function serbiamunicipalities_listcounties() {
       'Mali Iđoš',
       'Grad Subotica',
     ),
-    'Srednjobanatski upravni okrug' => array(
+    'Srednjebanatski upravni okrug' => array(
       'Žitište',
       'Grad Zrenjanin',
       'Nova Crnja',
@@ -57,7 +57,7 @@ function serbiamunicipalities_listcounties() {
       'Grad Pančevo',
       'Plandište ',
     ),
-    'Zapadnobački uprvni okrug' => array(
+    'Zapadnobački upravni okrug' => array(
       'Apatin',
       'Kula',
       'Odžaci',
